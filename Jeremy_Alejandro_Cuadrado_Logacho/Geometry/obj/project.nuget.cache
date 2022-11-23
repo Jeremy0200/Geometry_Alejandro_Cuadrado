@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaR++b0HgijcTb09sKvbCNoYvnB5ZPcI8iVDT+jEgefAR4SHX3210zXBgoCvqdBzse0Mhl+WmjNYn1lV5yOzLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alejo\\Downloads\\Geometry_7996-master\\Geometry_7996-master\\Jeremy_Alejandro_Cuadrado_Logacho\\Geometry\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alejo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alejo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alejo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\alejo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
